@@ -1,0 +1,591 @@
+.paragraph_style {
+    color: rgb(255, 255, 255);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 8px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 9px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_1 {
+    color: rgb(0, 0, 0);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 12px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_2 {
+    color: rgb(255, 255, 255);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 17px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_3 {
+    color: rgb(66, 162, 70);
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 25px;
+    font-stretch: normal;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 35px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_4 {
+    color: rgb(88, 77, 77);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_2 {
+    background: transparent url(backgroundimage_1.jpg) no-repeat scroll center center;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: rgb(255, 255, 255);
+    opacity: 1.00;
+}
+.Body {
+    color: rgb(88, 77, 77);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Free_Form {
+    color: rgb(88, 77, 77);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_shape_layout_style_default_External_1000_50 {
+    position: relative;
+}
+.graphic_shape_layout_style_default {
+    padding: 4px;
+}
+.graphic_shape_layout_style_default_External_1000_115 {
+    position: relative;
+}
+.graphic_shape_style_default_SkipStroke {
+    background: rgb(255, 255, 255);
+    opacity: 1.00;
+}
+.graphic_textbox_layout_style_default_External_142_29 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_274_41 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_161_29 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_274_24 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_93_29 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_275_41 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_149_29 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_275_24 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_593_39 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_276_24 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_200_29 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_631_17 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_61_29 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_276_41 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_537_190 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_102_29 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class1 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class1:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class1:hover {
+    color: rgb(64, 165, 65);
+    text-decoration: none;
+}
+a.class10 {
+    text-decoration: none;
+}
+a.class10:visited {
+    color: rgb(69, 60, 60);
+    text-decoration: none;
+}
+a.class10:hover {
+    color: rgb(66, 162, 69);
+    text-decoration: none;
+}
+a.class11 {
+    text-decoration: none;
+}
+a.class11:visited {
+    color: rgb(69, 60, 60);
+    text-decoration: none;
+}
+a.class11:hover {
+    color: rgb(66, 162, 69);
+    text-decoration: none;
+}
+a.class12 {
+    text-decoration: none;
+}
+a.class12:visited {
+    color: rgb(69, 60, 60);
+    text-decoration: none;
+}
+a.class12:hover {
+    color: rgb(66, 162, 69);
+    text-decoration: none;
+}
+a.class13 {
+    text-decoration: none;
+}
+a.class13:visited {
+    color: rgb(69, 60, 60);
+    text-decoration: none;
+}
+a.class13:hover {
+    color: rgb(66, 162, 69);
+    text-decoration: none;
+}
+a.class14 {
+    text-decoration: none;
+}
+a.class14:visited {
+    color: rgb(69, 60, 60);
+    text-decoration: none;
+}
+a.class14:hover {
+    color: rgb(66, 162, 69);
+    text-decoration: none;
+}
+a.class15 {
+    color: rgb(64, 163, 74);
+}
+a.class15:visited {
+    color: rgb(64, 163, 74);
+}
+a.class15:hover {
+    color: rgb(66, 162, 69);
+}
+a.class16 {
+    text-decoration: none;
+}
+a.class16:visited {
+    color: rgb(69, 60, 60);
+    text-decoration: none;
+}
+a.class16:hover {
+    color: rgb(66, 162, 69);
+    text-decoration: none;
+}
+a.class17 {
+    text-decoration: none;
+}
+a.class17:visited {
+    color: rgb(69, 60, 60);
+    text-decoration: none;
+}
+a.class17:hover {
+    color: rgb(66, 162, 69);
+    text-decoration: none;
+}
+a.class18 {
+    text-decoration: none;
+}
+a.class18:visited {
+    color: rgb(69, 60, 60);
+    text-decoration: none;
+}
+a.class18:hover {
+    color: rgb(66, 162, 69);
+    text-decoration: none;
+}
+a.class19 {
+    text-decoration: none;
+}
+a.class19:visited {
+    color: rgb(69, 60, 60);
+    text-decoration: none;
+}
+a.class19:hover {
+    color: rgb(66, 162, 69);
+    text-decoration: none;
+}
+a.class2 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class2:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class2:hover {
+    color: rgb(64, 165, 65);
+    text-decoration: none;
+}
+a.class20 {
+    text-decoration: none;
+}
+a.class20:visited {
+    color: rgb(69, 60, 60);
+    text-decoration: none;
+}
+a.class20:hover {
+    color: rgb(66, 162, 69);
+    text-decoration: none;
+}
+a.class21 {
+    text-decoration: none;
+}
+a.class21:visited {
+    color: rgb(69, 60, 60);
+    text-decoration: none;
+}
+a.class21:hover {
+    color: rgb(66, 162, 69);
+    text-decoration: none;
+}
+a.class22 {
+    text-decoration: none;
+}
+a.class22:visited {
+    color: rgb(69, 60, 60);
+    text-decoration: none;
+}
+a.class22:hover {
+    color: rgb(66, 162, 69);
+    text-decoration: none;
+}
+a.class23 {
+    text-decoration: none;
+}
+a.class23:visited {
+    color: rgb(69, 60, 60);
+    text-decoration: none;
+}
+a.class23:hover {
+    color: rgb(66, 162, 69);
+    text-decoration: none;
+}
+a.class24 {
+    text-decoration: none;
+}
+a.class24:visited {
+    color: rgb(88, 77, 77);
+    text-decoration: none;
+}
+a.class24:hover {
+    color: rgb(64, 163, 74);
+    text-decoration: none;
+}
+a.class3 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class3:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class3:hover {
+    color: rgb(64, 165, 65);
+    text-decoration: none;
+}
+a.class4 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class4:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class4:hover {
+    color: rgb(64, 165, 65);
+    text-decoration: none;
+}
+a.class5 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class5:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class5:hover {
+    color: rgb(64, 165, 65);
+    text-decoration: none;
+}
+a.class6 {
+    color: rgb(64, 165, 65);
+    text-decoration: none;
+}
+a.class6:visited {
+    color: rgb(64, 165, 65);
+    text-decoration: none;
+}
+a.class6:hover {
+    color: rgb(64, 165, 65);
+    text-decoration: none;
+}
+a.class7 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class7:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class7:hover {
+    color: rgb(64, 165, 65);
+    text-decoration: none;
+}
+a.class8 {
+    text-decoration: none;
+}
+a.class8:visited {
+    color: rgb(69, 60, 60);
+    text-decoration: none;
+}
+a.class8:hover {
+    color: rgb(66, 162, 69);
+    text-decoration: none;
+}
+a.class9 {
+    text-decoration: none;
+}
+a.class9:visited {
+    color: rgb(69, 60, 60);
+    text-decoration: none;
+}
+a.class9:hover {
+    color: rgb(66, 162, 69);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget1 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget0 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget1 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget0 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget1 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+body { 
+    -webkit-text-size-adjust: none;
+}
+div { 
+    overflow: visible; 
+}
+img { 
+    border: none; 
+}
+.InlineBlock { 
+    display: inline; 
+}
+.InlineBlock { 
+    display: inline-block; 
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-bottom:0.3em;
+}
+.inline-block.shape-with-text {
+    vertical-align: bottom;
+}
+.vertical-align-middle-middlebox {
+    display: table;
+}
+.vertical-align-middle-innerbox {
+    display: table-cell;
+    vertical-align: middle;
+}
+div.paragraph {
+    position: relative;
+}
+li.full-width {
+    width: 100;
+}

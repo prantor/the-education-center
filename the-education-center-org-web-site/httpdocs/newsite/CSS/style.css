@@ -1,0 +1,182 @@
+﻿.body
+{
+    background-image: url(../Images/page_background.jpg);
+    background-repeat: repeat-x;
+    background-color: #dadad7;
+}
+.page
+{
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Arial;
+    font-size: 12pt;
+}
+.page h1
+{
+    font-family: Arial;
+    font-size: 18pt;
+    color: #47aa42;
+}
+.page p
+{
+    font-family: Arial;
+    font-size: 12pt;
+}
+
+.header
+{
+    width: 1000px;
+}
+.headerright
+{
+    width: 600px;
+    font-family: Arial;
+    font-size: 14pt;
+    float: right;
+    color: #ffffff;
+    text-align: right;
+        
+}
+.headerleft
+{
+    width: 200px;
+    float: left;
+    
+}
+.nav
+{
+    background-image: url(../Images/nav_background.png);
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 42px;
+    font-family: Arial;
+    font-size: 13pt;
+    color: #ffffff;
+    margin-top: 10px;
+    
+}
+.navcontent
+{
+ font-family: Arial;
+    font-size: 13pt;
+    color: #ffffff;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    font-weight: 900;
+    
+    
+}
+.nav a
+{
+     font-family: Arial;
+    font-size: 13pt;
+    color: #ffffff;
+    text-decoration: none;
+        font-weight: 600;
+
+}
+.nav a:link
+{
+         font-family: Arial;
+    font-size: 13pt;
+    color: #ffffff;
+    text-decoration: none;
+        font-weight: 600;
+
+}
+.nav a:active
+{
+         font-family: Arial;
+    font-size: 13pt;
+    color: #ffffff;
+    text-decoration: none;
+            font-weight: 600;
+
+}
+.nav a:visited
+{
+         font-family: Arial;
+    font-size: 13pt;
+    color: #ffffff;
+    text-decoration: none;
+            font-weight: 600;
+
+}
+.nav a:hover
+{
+         font-family: Arial;
+    font-size: 13pt;
+    color: #666666;
+    text-decoration: none;
+            font-weight: 600;
+
+}
+.ad
+{
+    width: 1000px;
+    margin-top: 10px;
+}
+.content
+{
+    
+    
+    margin-top: 10px;
+    width: 1000px;
+    background-color: #ffffff;
+    
+    
+}
+
+.contentleft
+{
+    width: 610px;
+    float: left;
+    color: #666666;
+    background-color: #ffffff;
+    padding: 30px 0px 15px 30px;
+}
+.contentleft2
+{
+    width: 575px;
+    float:left;
+    color: #666666;
+    
+    padding: 30px 0px 15px 20px;
+    
+    
+}
+.contentright
+{
+    width: 286px;
+    float: right;
+    padding: 30px 30px 15px 0px;
+    color: #666666;
+    
+    
+}
+.contentright2
+{
+  width: 355px;
+  float: right;
+  padding: 30px 20px 15px 10px;
+  color: #666666;   
+}
+.clear
+{
+    clear: both;
+}
+.footer
+{
+    width: 1000px;
+    font-family: Arial;
+    font-size: 10pt;
+    color: #333332;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+    
+
+

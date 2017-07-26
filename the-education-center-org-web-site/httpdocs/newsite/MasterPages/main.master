@@ -1,0 +1,108 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="main.master.cs" Inherits="MasterPages_main" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>The Education Center</title>
+    <link rel="Stylesheet" type="text/css" href="../CSS/style.css" />
+    <link rel="Stylesheet" type="text/css" href="../CSS/menu_style.css" />
+
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="body">
+    <form id="form1" runat="server">
+    <div class="page">
+    <div class="header">
+    <div class="headerleft"><a href="Default.aspx"><img src="Images/logo.png" border="0" /></a></div>
+    
+    <div class="headerright">
+    <div>
+    <div style="float: left; width: 200px; text-align: right; margin-top: 10px; margin-left: 5px;"><a href="#"><img src="Images/postit.png" border="0" /></a></div>
+    <div style="float: right; width: 395px;">
+    <div style="font-style: italic;">Helping Kids Succeed in School and in Life</div>
+    <div style="margin-top: 10px;">
+    <div style="float: left; margin-left: 35px;">
+    <asp:TextBox ID="txtSearch" Width="280px" Height="20px" runat="server"></asp:TextBox></div>
+    <div style="float:right;"><asp:LinkButton ID="lnkSearch" runat="server"><img src="Images/search.png" border="0" style="margin-left: 5px;" /></asp:LinkButton></div><div class="clear"></div></div>
+    <div style="margin-top: 10px; font-size: 12pt;"><a href="#"><img src="Images/youtube.png" border="0" /></a>&nbsp;&nbsp;<a href="#"><img src="Images/facebook.png" border="0" /></a>&nbsp;&nbsp;<a href="#"><img src="Images/twitter.png" border="0" /></a></div>
+    </div>
+    <div class="clear"></div>
+    </div>
+    </div>
+    
+    <div class="clear"></div>
+    </div>
+    
+    
+    <div class="nav">
+        <div class="menu">
+<ul>
+<li><a href="Default.aspx" target="_self" >HOME</a>
+</li>
+<li><a href="ourmission.aspx" target="_self" >OUR MISSION</a>
+<ul>
+<li><a href="centerhistory.aspx" target="_self">Center History</a></li>
+<li><a href="drlitow.aspx" target="_self">Dr. Michael Litow</a></li>
+
+</ul>
+</li>
+<li><a href="howitworks.aspx" target="_self" >HOW IT WORKS</a>
+<ul>
+<li><a href="consultations.aspx" target="_self">Consultations</a></li>
+<li><a href="referrals.aspx" target="_self">Referrals</a></li>
+<li><a href="listofservices.aspx" target="_self">List of Services</a></li>
+</ul>
+</li>
+<li><a href="faq.aspx" target="_self" >FAQ</a>
+</li>
+<li><a href="howyoucanhelp.aspx" target="_self" >HOW YOU CAN HELP</a>
+<ul>
+<li><a href="mentoring.aspx" target="_self">Mentoring</a></li>
+<li><a href="jobsandinternships.aspx" target="_self">Jobs and Internships</a></li>
+<li><a href="financial.aspx" target="_self">Financial</a></li>
+</ul>
+</li>
+<li><a href="testimonials.aspx" target="_self" >TESTIMONIALS</a>
+<ul>
+<li><a href="mediatestimonials.aspx" target="_self">Media Testimonials</a></li>
+<li><a href="othertestimonials.aspx" target="_self">Other Testimonials</a></li>
+<li><a href="parentstestimonials" target="_self">Parents Testimonials</a></li>
+</ul>
+</li>
+<li><a href="events.aspx" target="_self" >EVENTS</a>
+<ul>
+<li><a href="eventpictures" target="_self">Event Pictures</a></li>
+<li><a href="eventdirections" target="_self">Event Directions</a></li>
+<li><a href="eventtickets" target="_self">Event Tickets</a></li>
+</ul>
+</li>
+<li><a href="contact.aspx" target="_self" >CONTACT</a>
+</li>
+</ul>
+</div>
+
+
+     
+    
+    </div>
+    
+    
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+  
+    </div>
+
+    
+    
+    
+    
+    
+    
+  
+    
+    </form>
+</body>
+</html>

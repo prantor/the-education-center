@@ -1,0 +1,35 @@
+<media>
+
+	<image image="http://www.theeducationcenter.org/deploy/assets/media/images/demo1/image2.jpg" thumbnail="http://www.theeducationcenter.org/deploy/assets/media/thumbs/demo1/thumb2.jpg" url="">
+		<thumbDescription><![CDATA[<head>Lorem ipsum dolor</head><body>Donec porta sapien</body>]]></thumbDescription>
+		<previewDescription><![CDATA[<head>Aliquam erat volutpat</head><body>Aenean et ante felis, eu facilisis erat</body>]]></previewDescription>
+	</image>
+
+	<image image="http://www.theeducationcenter.org/deploy/assets/media/images/demo1/image1.jpg" thumbnail="http://www.theeducationcenter.org/deploy/assets/media/thumbs/demo1/thumb1.jpg" url="">
+		<thumbDescription><![CDATA[<head>Lorem ipsum dolor</head><body>Donec porta sapien</body>]]></thumbDescription>
+		<previewDescription><![CDATA[<head>Aliquam erat volutpat</head><body>Aenean et ante felis, eu facilisis erat</body>]]></previewDescription>
+	</image>
+	
+	
+	
+	<image image="http://www.theeducationcenter.org/deploy/assets/media/images/demo1/image3.jpg" thumbnail="http://www.theeducationcenter.org/deploy/assets/media/thumbs/demo1/thumb3.jpg" url="">
+		<thumbDescription><![CDATA[<head>Lorem ipsum dolor</head><body>Donec porta sapien</body>]]></thumbDescription>
+		<previewDescription><![CDATA[<head>Aliquam erat volutpat</head><body>Aenean et ante felis, eu facilisis erat</body>]]></previewDescription>
+	</image>
+	
+	<!-- <image image="path_to_video/VIDEO_NAME.video_extension" previewImage="http://www.theeducationcenter.org/deploy/assets/media/images/demo1/image5.jpg" thumbnail="http://www.theeducationcenter.org/deploy/assets/media/thumbs/demo1/thumb5.jpg" url="">	
+	</image> -->
+	
+	<image image="http://www.theeducationcenter.org/deploy/assets/media/images/demo1/image4.jpg" thumbnail="http://www.theeducationcenter.org/deploy/assets/media/thumbs/demo1/thumb4.jpg" url="">
+		<thumbDescription><![CDATA[<head>Lorem ipsum dolor</head><body>Donec porta sapien</body>]]></thumbDescription>
+		<previewDescription><![CDATA[<head>Aliquam erat volutpat</head><body>Aenean et ante felis, eu facilisis erat</body>]]></previewDescription>
+	</image>	
+		
+	<image image="http://www.theeducationcenter.org/deploy/assets/media/images/demo1/image6.jpg"  thumbnail="http://www.theeducationcenter.org/deploy/assets/media/thumbs/demo1/thumb6.jpg" url="">
+		<thumbDescription><![CDATA[<head>Lorem ipsum dolor</head><body>Donec porta sapien</body>]]></thumbDescription>
+		<previewDescription><![CDATA[<head>Aliquam erat volutpat</head><body>Aenean et ante felis, eu facilisis erat</body>]]></previewDescription>
+	</image>
+
+	
+		
+</media>

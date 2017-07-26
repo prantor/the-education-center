@@ -1,0 +1,113 @@
+<settings>
+  <image_url>
+    <url value="http://www.theeducationcenter.org/deploy/assets/xml/media.xml"/>
+  </image_url>
+  <general_properties>
+	<bannerWidth value = "1000"/>
+	<bannerHeight value = "400"/>
+	<componentWidth value = "1000"/>
+	<componentHeight value = "400"/>
+	<navPosition value = "right"/> <!--left, right, top || bottom-->
+	<thumbCssLink value = "http://www.theeducationcenter.org/deploy/assets/css/toolTipStyle.css"/>
+	<previewCssLink value = "http://www.theeducationcenter.org/deploy/assets/css/textStyle.css"/>
+	<listItemsTweenTime value = ".5"/>
+	<timerDelay value = "4"/>
+	<listState value = "normal"/> <!--normal || slide || image_view-->
+	<listSlideTimeIn value = ".3"/>
+	<listSlideTimeOut value = "1"/>
+	<enableTimer value = "true"/>
+	<keepAspectRatio value = "false"/>
+	<ambientBlurX value = "50"/>
+	<ambientBlurY value = "50"/>
+	<ambientAlpha value = "1"/>
+	<listSlideDelay value = "1"/><!--valid only for listState = slide-->
+  </general_properties>
+  
+  <tooltip_properties>
+	<toolTipWidth value = "155"/>
+	<toolTipHeight value = "47"/>
+	<toolTipColor value = "0xFFFFFF"/>
+	<toolTipAlpha value= ".85"/>
+	<toolTipBorderColor value = "0x1d1d1d"/>
+	<toolTipBorderThickness value = "0"/>
+	<toolTipHookSize value = "10"/>
+	<toolTipTweenTime value = ".5"/>
+	<toolTipDelay value = ".4"/>
+	<showToolTip value = "false"/>
+  </tooltip_properties>
+  
+  <list_text_properties>
+    <listTextFont value = "Segoe UI Light"/>
+	<listTextSize value = "50"/>
+	<listTextColor value = "0xffffff"/>
+	<listTextAlpha value = ".4"/>
+	<listTextSelectedColor value = "0x000000"/>
+	
+  </list_text_properties>
+  
+  <list_thumbnail_properties>
+	<listImageBorderThickness value = "0"/>
+	<listImageBorderColor value = "0x7f7f7f"/>
+	<spaning value = "0"/>
+	<thumbnailWidth value = "100"/>
+	<thumbnailHeight value = "100"/>
+	<thumbNailRollOverEffect value = "zoom"/> <!--shine, zoom, tweenMax, gate, none-->	
+	<playColor value = "0xffffff"/>
+	<playAlpha value = ".2"/>
+	<playSize value = "50"/>
+	<playCornerRadius value = "3"/>
+	<listBackgroundColor value = "0x000000"/>
+	<listBackgroundAlpha value = ".5"/>
+	<listBackgroundSelectedColor value = "0xffffff"/>
+	<listBackgroundSelectedAlpha value = ".8"/>
+  </list_thumbnail_properties>
+  
+  <preview_properties>
+	<previewImageTransition value = "blur"/> <!--slide, fade, blur, close, boxes-->
+	<previewImageTransitionTime value=".5"/><!--valid only for slide, fade & blur-->
+	<borderColor value = "0x7f7f7f"/>
+	<borderThickness value = "2"/>
+	<borderAlpha value=".2"/>
+	<headTextBackColor value = "0x000000"/>
+	<headTextBackAlpha value = ".67"/>
+	<bodyTextBackColor value = "0xFFFFFF"/>
+	<bodyTextBackAlpha value = ".73"/>
+	<previewTextX value = "30"/>
+	<previewTextY value = "250"/>
+	<previewTextEffect value = "glide"/> <!--backScale, slide, glide, sideGlide-->
+  </preview_properties>
+  
+  <scroll_bar_properties>
+	<scrollBarBackColor value = "0xCCCCCC"/>
+	<scrollBarBackAlpha value = "0.5"/>
+	<scrollBarColor value = "0x47aa42"/>
+	<scrollBarAlpha value = "1"/>
+	<scrollBarStripeColor value = "0xCCCCCC"/>
+	<scrollBarStripeAlpha value = "1"/>
+	<scrollBarStripeThickness value = "2"/>
+	<scrollBarRollOverColor value = "0x595959"/>
+	<scrollBarRollOverAlpha value = "1"/>
+	<scrollBarStripeRollOverColor value = "0xFFFFFF"/>
+	<scrollBarStripeRollOverAlpha value = "1"/>
+	<scrollBarWidth value = "10"/>
+  </scroll_bar_properties>
+  
+  <play_pause_icons>
+	<playPauseIcoWidth value = "100"/>
+	<playPauseIcoHeight value = "100"/>
+	<playPauseIcoBackColor value = "0x000000"/>
+	<playPauseIcoColor value = "0xCCCCCC"/>
+  </play_pause_icons>
+  
+  <video_info_properties>
+	<scrubberColor value = "0xFFFFFF"/>
+	<scrubberAlpha value = ".7"/>
+	<timeFont value = "Segoe UI Light"/>
+	<timeColor value = "0x595959"/>
+	<timeAlpha value = ".49"/>
+	<timeHoursSize value = "55"/>
+	<timeMinutesSize value = "35"/>
+	<timeSecondsSize value = "20"/>
+	<videoAutoStart value = "false"/>
+  </video_info_properties>
+</settings>

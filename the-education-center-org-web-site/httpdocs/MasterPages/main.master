@@ -1,0 +1,202 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="main.master.cs" Inherits="MasterPages_main" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>The Education Center</title>
+    <link rel="Stylesheet" type="text/css" href="../CSS/style.css" />
+    <link rel="Stylesheet" type="text/css" href="../CSS/menu_style.css" />
+
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="body">
+    <form id="form1" runat="server">
+    <div class="page">
+        <div class="header">
+                <div class="headerleft"><a href="Default.aspx"><img src="Images/logo.png" border="0" style="margin-top: 6px;" /></a></div>
+                <div class="headerright">
+                    <div style="float: left; width: 200px; text-align: right; margin-top: 10px; margin-left: 5px;"><a href="donation.aspx"><img src="Images/postit.png" border="0" /></a></div>
+                    <div style="float: right; width: 395px;">
+                    <div style="font-style: italic;">Helping Kids Succeed in School and in Life</div>
+                    <div style="text-align:right; margin-top: 5px;">
+                    <div id="cse" style="width: 100%;">Loading</div>
+                    <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+                    <script type="text/javascript">
+                        google.load('search', '1', { language: 'en', style: google.loader.themes.GREENSKY });
+                        google.setOnLoadCallback(function() {
+                            var customSearchControl = new google.search.CustomSearchControl('016985882355204092090:opr6maq2cvi');
+                            customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+                            customSearchControl.draw('cse');
+                        }, true);
+                    </script>
+                        <style type="text/css">
+  .gsc-control-cse {
+    font-family: "Trebuchet MS", sans-serif;
+    border-color: #666666;
+    border-width: 0px;
+    background-color: Transparent;
+  }
+  input.gsc-input {
+    border-color: #94CC7A;
+  }
+  input.gsc-search-button {
+    border-color: #94CC7A;
+    background-color: #AADA92;
+  }
+  .gsc-tabHeader.gsc-tabhInactive {
+    border-color: #A9DA92;
+    background-color: #FFFFFF;
+  }
+  .gsc-tabHeader.gsc-tabhActive {
+    border-color: #A9DA92;
+    background-color: #A9DA92;
+  }
+  .gsc-tabsArea {
+    border-color: #A9DA92;
+  }
+  .gsc-webResult.gsc-result {
+    border-color: #A9DA92;
+    background-color: #FFFFFF;
+  }
+  .gsc-webResult.gsc-result:hover {
+    border-color: #A9DA92;
+    background-color: #FFFFFF;
+  }
+  .gs-webResult.gs-result a.gs-title:link,
+  .gs-webResult.gs-result a.gs-title:link b {
+    color: #0066CC;
+  }
+  .gs-webResult.gs-result a.gs-title:visited,
+  .gs-webResult.gs-result a.gs-title:visited b {
+    color: #0066CC;
+  }
+  .gs-webResult.gs-result a.gs-title:hover,
+  .gs-webResult.gs-result a.gs-title:hover b {
+    color: #0066CC;
+  }
+  .gs-webResult.gs-result a.gs-title:active,
+  .gs-webResult.gs-result a.gs-title:active b {
+    color: #0066CC;
+  }
+  .gsc-cursor-page {
+    color: #0066CC;
+  }
+  a.gsc-trailing-more-results:link {
+    color: #0066CC;
+  }
+  .gs-webResult.gs-result .gs-snippet {
+    color: #454545;
+  }
+  .gs-webResult.gs-result .gs-visibleUrl {
+    color: #815FA7;
+  }
+  .gs-webResult.gs-result .gs-visibleUrl-short {
+    color: #815FA7;
+  }
+  
+  .gs-webResult.gs-result .gs-visibleUrl-short {
+    display: none;
+  }
+  .gs-webResult.gs-result .gs-visibleUrl-long {
+    display: block;
+  }
+  .gsc-cursor-box {
+    border-color: #A9DA92;
+  }
+  .gsc-results .gsc-cursor-page {
+    border-color: #A9DA92;
+    background-color: #FFFFFF;
+  }
+  .gsc-results .gsc-cursor-page.gsc-cursor-current-page {
+    border-color: #A9DA92;
+    background-color: #A9DA92;
+  }
+  .gs-promotion.gs-result {
+    border-color: #94CC7A;
+    background-color: #CBE8B4;
+  }
+  .gs-promotion.gs-result a.gs-title:link {
+    color: #0066CC;
+  }
+  .gs-promotion.gs-result a.gs-title:visited {
+    color: #0066CC;
+  }
+  .gs-promotion.gs-result a.gs-title:hover {
+    color: #0066CC;
+  }
+  .gs-promotion.gs-result a.gs-title:active {
+    color: #0066CC;
+  }
+  .gs-promotion.gs-result .gs-snippet {
+    color: #454545;
+  }
+  .gs-promotion.gs-result .gs-visibleUrl,
+  .gs-promotion.gs-result .gs-visibleUrl-short {
+    color: #815FA7;
+  }
+</style>
+</div>
+
+                    <div style="margin-top: 12px; font-size: 12pt;"><a href="#"><img src="Images/login_now.png" border="0" /></a>&nbsp;<a href="http://www.facebook.com/pages/The-Education-Center-of-Developmental-Resources/141955352494095"><img src="Images/facebook.png" border="0" style="height: 27px;" /></a>&nbsp;<a href="https://twitter.com/theeducenter"><img src="Images/twitter.png" border="0" style="height: 27px;"/></a></div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="clear"></div>
+        </div>
+    
+    
+<div class="nav">
+  <div class="menu">
+            <ul>
+            <li><a href="Default.aspx" target="_self" >HOME</a>
+            </li>
+            <li><a href="ourmission.aspx" target="_self" >OUR MISSION</a>
+            <ul>
+            <li><a href="centerhistory.aspx" target="_self">Center History</a></li>
+            <li><a href="drlitow.aspx" target="_self">Dr. Michael Litow</a></li>
+
+            </ul>
+            </li>
+            <li><a href="howitworks.aspx" target="_self" >HOW IT WORKS</a>
+            <ul>
+            <li><a href="consultations.aspx" target="_self">Consultations</a></li>
+            <li><a href="referrals.aspx" target="_self">Referrals</a></li>
+            <li><a href="listofservices.aspx" target="_self">List of Services</a></li>
+            </ul>
+            </li>
+            <li><a href="faq.aspx" target="_self" >FAQ</a>
+            </li>
+            <li><a href="howyoucanhelp.aspx" target="_self" >HOW YOU CAN HELP</a>
+            <ul>
+            <li><a href="mentoring.aspx" target="_self">Mentoring</a></li>
+            <li><a href="jobsandinternships.aspx" target="_self">Jobs and Internships</a></li>
+            <li><a href="financial.aspx" target="_self">Financial</a></li>
+            </ul>
+            </li>
+            <li><a href="testimonials.aspx" target="_self" >TESTIMONIALS</a>
+            <ul>
+            <li><a href="mediatestimonials.aspx" target="_self">Media Testimonials</a></li>
+            <li><a href="othertestimonials.aspx" target="_self">Other Testimonials</a></li>
+            <li><a href="parentstestimonials.aspx" target="_self">Parents Testimonials</a></li>
+            </ul>
+            </li>
+            <li><a href="events.aspx" target="_self" >EVENTS</a>
+            <ul>
+            <li><a href="http://www.theeducationcenter.org/2015EducationCenterRSVP.pdf" target="_blank">Download RSVP Card</a></li>
+          
+            </ul>
+            </li>
+            <li><a href="contact.aspx" target="_self" >CONTACT</a>
+            </li>
+            </ul>
+   </div>
+</div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+  <div class="footer"><div style="padding-top: 9px;">Copyright 2011 The Education Center | All Rights Reserved | Site by <a href="http://www.trueproductions.net">True Productions LLC</a></div></div>
+</div>
+</form>
+</body>
+</html>

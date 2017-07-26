@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title></title></head><body><script type="text/javascript">
+
+// Google Internal Site Search script- By JavaScriptKit.com (http://www.javascriptkit.com)
+// For this and over 400+ free scripts, visit JavaScript Kit- http://www.javascriptkit.com/
+// This notice must stay intact for use
+
+//Enter domain of site to search.
+var domainroot="www.theeducationcenter.org"
+
+function Gsitesearch(curobj){
+curobj.q.value="site:"+domainroot+" "+curobj.qfront.value
+}
+
+</script>
+
+
+<form action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">
+
+<input name="q" type="hidden" />
+<input name="qfront" type="text" style="width: 130px" /> <input type="submit" value="Search" /></p>
+
+</form></body></html>

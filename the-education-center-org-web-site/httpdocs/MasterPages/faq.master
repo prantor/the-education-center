@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPages/main.master" AutoEventWireup="true" CodeFile="faq.master.cs" Inherits="MasterPages_faq" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+<div class="content">
+<div class="contentleft2" style="width: 300px;">
+<img src="Images/creating_their_future.jpg" /><br />
+<p style="font-size: 10pt;padding-left: 5px;">We help kids open the doors they want opened with professionally administerd programs that <strong>offer respect and realism. </strong></p>
+<img src="Images/faq_title.jpg" />
+<p style="padding-top: 0px; padding-left: 5px;">
+<asp:ContentPlaceHolder ID="questionanswer" runat="server"></asp:ContentPlaceHolder>
+</p>
+
+
+</div>
+<div class="contentright2" style="margin-top: -2px; width: 600px;">
+<img src="Images/faq_image.jpg" usemap="#faqmap" border="0" />
+<map id="faqmap" name="faqmap">
+<area shape="rect" alt="" title="" coords="42,70,336,90" href="faq1.aspx" target="" />
+<area shape="rect" alt="" title="" coords="45,105,458,131" href="faq2.aspx" target="" />
+<area shape="rect" alt="" title="" coords="43,141,512,169" href="faq3.aspx" target="" />
+<area shape="rect" alt="" title="" coords="42,178,480,206" href="faq4.aspx" target="" />
+<area shape="rect" alt="" title="" coords="45,212,480,237" href="faq5.aspx" target="" />
+<area shape="rect" alt="" title="" coords="40,246,268,274" href="faq6.aspx" target="" />
+<area shape="rect" alt="" title="" coords="43,283,346,311" href="faq7.aspx" target="" />
+<area shape="rect" alt="" title="" coords="43,319,385,346" href="faq8.aspx" target="" />
+<area shape="rect" alt="" title="" coords="41,354,455,386" href="faq9.aspx" target="" />
+<area shape="rect" alt="" title="" coords="42,393,418,421" href="faq10.aspx" target="" />
+<area shape="rect" alt="" title="" coords="42,426,322,453" href="faq11.aspx" target="" />
+<area shape="rect" alt="" title="" coords="40,461,386,493" href="faq12.aspx" target="" />
+<area shape="rect" alt="" title="" coords="40,497,434,534" href="faq13.aspx" target="" />
+<area shape="rect" alt="" title="" coords="43,537,544,562" href="faq14.aspx" target="" />
+<area shape="rect" alt="" title="" coords="41,570,512,619" href="faq15.aspx" target="" />
+<area shape="rect" alt="" title="" coords="42,624,531,654" href="faq16.aspx" target="" />
+<area shape="rect" alt="" title="" coords="38,662,514,692" href="faq17.aspx" target="" />
+</map>
+<br /><br />
+
+</div>
+<div class="clear"></div>
+</div>
+
+</asp:Content>
+
