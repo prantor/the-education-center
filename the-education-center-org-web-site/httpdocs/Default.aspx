@@ -210,19 +210,16 @@ text-decoration: none;
 	    -->
 
 		<tr>
-			<td colspan="2">As it celebrates 37 years of helping children &ldquo;succeed in school as well as in life,&rdquo; 
-                	The Education Center of Developmental Resources will once again host the annual Kids&rsquo; Best Friend Benefit and Awards Dinner and highlight the contributions of several individuals who support the community, families, kids, and the elderly. 
+			<td colspan="2">The Education Center of Developmental Resources will once again host the annual Kids&rsquo; Best Friend Benefit and Awards Dinner and highlight the contributions of several individuals who support the community, families, kids, and the elderly. 
                 <br /> <br />
                 This year&rsquo;s awards and winners are:
     </div>
 
 <div>
 	<ul>
-        <li>Kids&rsquo; Best Friend Award &ndash; Jeffrey and Stephanie Jones Kastelic, Friedrich-Jones Funeral Home </li>
-        <li>Outstanding Community Leader Award &ndash; Commander Ken Parcel, Naperville Police Department</li>
-        <li>Making a Difference Award &ndash; Kitty Ryan, Naperville Community Unit School District 203</li>
-        <li>George and Pat Pradel Humanitarian Award &ndash; Nick and Teresa Ryan, Marquette Companies and Ryan Hill Realty</li>
-        <li>Business Partner Award &ndash; Rosebud Restaurants-Naperville</li>
+        <li>Kids&rsquo; Best Friend Award &ndash; Tom M. Carroll, Executive Vice President and CAO (retired), RR Donnelley</li>
+        <li>Making a Difference Award &ndash; The Rotary Club of Naperville, The Rotary Club of Naperville/Sunrise, and The Rotary Club of Naperville/Downtown</li>
+        <li>George and Pat Pradel Humanitarian Award &ndash; Thomas and Kathleen O’Donnell</li>
     </ul>
 
 </div>
@@ -250,8 +247,8 @@ text-decoration: none;
         <br /> <br />
         For more information, please contact the center at 630-420-7807 or visit www.theeducationcenter.org . The Education Center is located at 113 East Van Buren in Naperville.
         -->
-        The Kids’ Best Friend Benefit and Awards Dinner will be held on Friday, October 14, in the Hilton Lisle/Naperville Grand Ballroom. Tickets are $125 per person 
-        and include a cocktail reception, dinner, and live and silent auctions.  The reception begins at 5:30 p.The Education Center is located at 113 East Van Buren in 
+        The Kids’ Best Friend Benefit and Awards Dinner will be held on Friday, October 20, in the Hilton Lisle/Naperville Grand Ballroom. Tickets are $125 per person 
+        and include a cocktail reception, dinner, and live and silent auctions.  The reception begins at 5:30 pm.The Education Center is located at 113 East Van Buren in 
         Naperville. Programs help children and teens of all ages overcome everyday obstacles and be successful in a school and life.  
         <br /> <br />
  
