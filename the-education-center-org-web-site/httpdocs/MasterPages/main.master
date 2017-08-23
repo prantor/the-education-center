@@ -195,7 +195,7 @@
 </div>
         <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
         </asp:ContentPlaceHolder>
-  <div class="footer"><div style="padding-top: 9px;">Copyright 2011 The Education Center | All Rights Reserved | Site by <a href="http://www.trueproductions.net">True Productions LLC</a></div></div>
+  <div class="footer"><div style="padding-top: 9px;">Copyright 2017 The Education Center | All Rights Reserved</a></div></div>
 </div>
 </form>
 </body>
