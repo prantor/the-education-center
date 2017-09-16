@@ -282,7 +282,7 @@ text-decoration: none;
 			<!-- <td style="text-align: right;"><a href="http://www.theeducationcenter.org/2015EducationCenterRSVP.pdf" target="_blank"><img src="Images/2015invite.jpg" 
                 style="text-align: center; width: 100%;"></a>
             -->
-            <td style="text-align: right;"><a href="#"><img src="Images/2016invite.jpg" 
+            <td style="text-align: right;"><a href="#"><img src="Images/2017invite.jpg" 
                 style="text-align: center; width: 100%;"></a>
                 <br />
                 <br />
@@ -385,10 +385,12 @@ Brand and Mary Ann Bobosky will receive the George and Pat Pradel Humanitarian A
    
     </div>
 
-
-
-
-
+    <div class="content" >
+       <div class="contentleft">
+         <h2 style="background: LightGrey; color: white; padding: 6px; text-align: center;">The Education Center in the Media</h2>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/e95PV70ojd0?rel=0&amp;start=9" frameborder="0" allowfullscreen></iframe> 
+    </div>
+        
     <div class="content">
     <div class="contentleft">
     <img src="Images/helping_kids_title.jpg" /><br />

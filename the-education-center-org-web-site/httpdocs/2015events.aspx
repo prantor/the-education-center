@@ -10,7 +10,7 @@
    <!-- Start award winners -->
    <div style="padding: 30px;">
    
-   <h2 style="background: red; color: white; padding: 6px; text-align: center;">2015 Under Construction!</h2>
+   <!-- h2 style="background: red; color: white; padding: 6px; text-align: center;">2015 Under Construction!</h2 -->
    
    <h2 style="background: #6c6c6c; color: white; padding: 6px; text-align: center;">2015 Kids&#39; Best Friend Awards Event Honors Ray Jones, Nicki Scott, Vicki Coletta, Brand and Mary Ann Bobosky</h2>
 	
