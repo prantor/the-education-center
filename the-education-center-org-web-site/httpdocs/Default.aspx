@@ -282,11 +282,31 @@ text-decoration: none;
 			<!-- <td style="text-align: right;"><a href="http://www.theeducationcenter.org/2015EducationCenterRSVP.pdf" target="_blank"><img src="Images/2015invite.jpg" 
                 style="text-align: center; width: 100%;"></a>
             -->
-            <td style="text-align: right;"><a href="#"><img src="Images/2017invite.jpg" 
+            <td style="text-align: left;"><a href="#"><img src="Images/2017invite.jpg" 
                 style="text-align: center; width: 100%;"></a>
                 <br />
                 <br />
                 <br />
+                <br/>
+                
+                <div style="background-color: lightgrey; width: 100%; border: 2px solid green; padding: 10px;margin: 10px;">
+                     <div style="background-color: lightgrey; position: relative; width:43%; border: 2px solid green; padding: 10px;margin: 10px; display: inline-block; vertical-align: top;">
+                         <h2>Kids’ Best Friend Award</h2>
+                         <p>Tom Carroll will receive the 2017 Kids’ Best Friend Award from The Education Center at the annual Kids’ Best Friend Awards benefit in October.<br/><br/>
+                             <img src="/images/2017-TomCarroll.jpg" style="float: right; margin: 0 10px 10px 0; width: 250px;">
+                         </p>
+                     </div>
+                     <div style="background-color: lightgrey; position: relative; width:43%; border: 2px solid green; padding: 10px;margin: 10px; display: inline-block; vertical-align: top;">
+                         <h2>George and Pat Pradel Humanitarian Award</h2>
+                         <p>Thomas and Kathleen O’Donnell will be honored with the George and Pat Pradel Humanitarian Award at the Kids’ Best Friend event on October 20.<br/><br/>
+                             <img src="/images/2017-KathleenThomasODonnell.jpg" style="float: right; margin: 0 10px 10px 0; width: 250px;">
+                         </p>
+                     </div>
+                </div>
+                <br/>
+                <br/>
+                <center><a href="http://www.theeducationcenter.org/2017events.aspx" style="text-decoration: none; padding:10px 15px; background: #ccc;">View 2017 Event</a></center>
+                <br/>
                 <br/>
                 <center><a href="http://www.theeducationcenter.org/2016events.aspx" style="text-decoration: none; padding:10px 15px; background: #ccc;">View 2016 Event</a></center>
                 <br/>
