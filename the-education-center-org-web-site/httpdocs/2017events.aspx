@@ -13,14 +13,14 @@
    <h2 style="background: #6c6c6c; color: white; padding: 6px; text-align: center;">The Education Center will honor Tom Carroll, Thomas and Kathleen O'Donnell and local Rotary clubs at its annual Kids' Best Friend Benefit</h2>
 	
     
-<p style="margin: 20px 0;"><img src="images/2017-award-winners-kids-best-friend-award-benefit.jpg" style="text-align: center; width: 100%;" />
-</p>
+<!-- p style="margin: 20px 0;"><img src="images/2017-award-winners-kids-best-friend-award-benefit.jpg" style="text-align: center; width: 100%;" />
+</p -->
 
 
 
 <div>
 
-	<img src="/images/35years.jpg" style="float: left; margin: 0 10px 10px 0; width: 250px;">
+	<img src="/images/38years.jpg" style="float: left; margin: 0 10px 10px 0; width: 250px;">
 
 </div>The Education Center is proud to announce that it will honor Naperville's Rotary clubs and three outstanding community leaders at its annual Kids' Best Friend Benefit and Awards Dinner on Friday, October 20. According to Dr. Michael Litow, founder and executive director of the Education Center, "The organizations and individuals have had a major impact on children and families throughout the years. We are excited to be able to highlight them and some of the work they have done to make this world a better place for kids."</div>
 
@@ -68,11 +68,7 @@ A devoted husband and father, Tom met his late wife, Kay Dahlquist, when they wo
 
 <h2 style="background: #6c6c6c; color: white; padding: 6px; text-align: center; clear: both; margin-top: 1em;">Making a Difference Award
 <br>Rotary Club of Naperville</h2>
-
-
-	<img src="/images/2015-RotaryClubNaperville.jpg" style="float: right; margin: 0 10px 10px 0; width: 250px;">
-
-<br>
+    <img src="/images/2017-RotaryClubNaperville.jpg" style="float: right; margin: 0 10px 10px 0; width: 250px;">
 
 <p style="margin: 40px 40px 40px 40px;">The eradication of polio is the goal of Rotary Clubs throughout the world. Naperville Rotarians have been involved by raising funds for this vital effort and by assisting international teams as they administer the polio vaccine to children in countries that still have endemic cases of the dreaded disease. The Rotary Club of Naperville, the Rotary Club of Naperville/Sunrise, and the Rotary Club of Naperville/Downtown will receive the Making a Difference Award at the Kids' Best Friend benefit.<br><br>
 Long admired for their support of community and international causes, the three Rotary clubs of Naperville are, together, being recognized with the Education Center's Making a Difference Award. The three clubs are: the Rotary Club of Naperville, chartered in 1941; the Rotary Club of Naperville/Sunrise, chartered in 1991, and the Rotary Club of Naperville/Downtown, chartered in 2007. The clubs are all members of Rotary International, one of the world's first humanitarian organizations, and they are part of over 34,000 Rotary Clubs in more than 200 countries and geographical areas with 1.2 million members worldwide.<br><br>
@@ -83,21 +79,13 @@ The Rotary Club of Naperville/Sunrise has focused many of its efforts on program
 The Rotary Club of Naperville/Downtown provides additional opportunities for individuals who want to make a difference in the community by putting service above self through membership in this worldwide organization. The downtown club, known affectionately as Naperville's 4:44 Club because of its late afternoon meeting time, focuses on supporting the Rotary Foundation and meeting unmet needs that make a difference in the community. To promote awareness of Alzheimer's and dementia, the club sponsors forget-me-not planters with signs at local businesses. Another inspiring and unique project sponsored by the club is its "Alive Inside Outreach." Using music as a vehicle for human connection via ArtSpeaks, high school students create playlists of favorite music from past generations and upload those songs to special wireless earphones for individuals who live in nursing homes or who are aging in place at home.<br><br>
 Elderly who have been unresponsive for years are frequently reawakened by the sounds of their youth in heart-warming meetings with the teens. The club's annual Rotary Ride for cyclists and bike riders raises funds for local nonprofits, including Naperville Responds for Veterans, Loaves and Fishes Community Services, SamaraCare, and End Polio Now, a Rotary Foundation commitment to eradicate this dreaded disease.<br><br>
 
-The Rotary Club of Naperville meets most Thursdays at 12:15 at Meson Sabika; the Rotary Club of Naperville/Sunrise meets most Friday mornings at 7:00 am at the Naperville Country Club, and the Rotary Club of Naperville/Downtown meets most Wednesdays at 4:44 pm at Hugo's Frog Bar Restaurant. The presence of three different clubs allows people interested in helping others a convenient choice of times and days to be part of this important international civic organization. Together, these three Rotary clubs make an important difference to people locally and around the world.<br><br>
-
+The Rotary Club of Naperville meets most Thursdays at 12:15 at Meson Sabika; the Rotary Club of Naperville/Sunrise meets most Friday mornings at 7:00 am at the Naperville Country Club, and the Rotary Club of Naperville/Downtown meets most Wednesdays at 4:44 pm at Hugo's Frog Bar Restaurant. The presence of three different clubs allows people interested in helping others a convenient choice of times and days to be part of this important international civic organization. Together, these three Rotary clubs make an important difference to people locally and around the world.
 </p>
 <br>
-<br>
-
 
 <h2 style="background: #6c6c6c; color: white; padding: 6px; text-align: center; clear: both; margin-top: 1em;">George and Pat Pradel Humanitarian Award
 <br>Thomas and Kathleen O'Donnell</h2>
-
-
 	<img src="/images/2017-KathleenThomasODonnell.jpg" style="float: right; margin: 0 10px 10px 0; width: 250px;">
-
-<br>
-
 <p style="margin: 40px 40px 40px 40px;">
 This year's George and Pat Pradel Humanitarian Award is being given to Thomas and Kathleen O'Donnell. Once again, this important award is honoring a caring couple whose many contributions to the community have been made quietly behind the scenes. The impact of their lifelong efforts reaches deep within Naperville and beyond the ocean to foreign shores.<br><br>
 
@@ -115,12 +103,9 @@ When asked why supporting education is so important to them, Tom O'Donnell expla
 
 Tom believes, "You have got to have a purpose. That purpose must go beyond you and your family, beyond your immediate world." Several years ago, he and his wife set up the Donegal Family Foundation so they could continue to support Naperville through their children. "When you are young, you can see the results of what you do," Tom explains. "If you work hard, you can see your business prosper and your children grow. When you get older, your role is to influence what is going to happen, knowing that you will never see the result. You have to take inspiration knowing that what you do will have an influence sometime down the road. Your efforts will make a difference for someone else."<br><br>
 
-Litow, who has dedicated his professional life to helping young people find success in school as well as in life, honors community members and organizations each year at the annual Kids' Best Friend Benefit and Awards Benefit. "Naperville is blessed to have such a depth of people who care so much for others and who are willing to give of their time and resources to make the future brighter for youth. Our honorees this year are, once again, exceptional in the myriad of ways they share their time, talents, and treasure to help others locally and around the globe."<br><br>
-
+Litow, who has dedicated his professional life to helping young people find success in school as well as in life, honors community members and organizations each year at the annual Kids' Best Friend Benefit and Awards Benefit. "Naperville is blessed to have such a depth of people who care so much for others and who are willing to give of their time and resources to make the future brighter for youth. Our honorees this year are, once again, exceptional in the myriad of ways they share their time, talents, and treasure to help others locally and around the globe."
 </p>
 <br>
-<br>
-
 
 <h2 style="background: #6c6c6c; color: white; padding: 6px; text-align: center; clear: both; margin-top: 1em;">More Information:</h2>
 <a name="ticketinfo"></a>
